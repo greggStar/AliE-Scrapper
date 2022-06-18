@@ -1,0 +1,979 @@
+[
+    {
+        "main-category": "Women's Fashion",
+        "categories": {
+            "0": {
+                "sub-heading": "Women's Fashion",
+                "sub_categories": [
+                    "Dresses",
+                    "Tees",
+                    "Blouses & Shirts",
+                    "Hoodies & Sweatshirts",
+                    "Women's Sets",
+                    "Suits & Blazers",
+                    "Bodysuits",
+                    "Tanks & Camis",
+                    "Coats & Jackets",
+                    "Sweaters"
+                ]
+            },
+            "1": {
+                "sub-heading": "Swimwear",
+                "sub_categories": [
+                    "Bikini Sets",
+                    "Cover-Ups"
+                ]
+            },
+            "2": {
+                "sub-heading": "Muslim Fashion",
+                "sub_categories": [
+                    "Abaya",
+                    "Women's Hijabs",
+                    "Muslim Sets",
+                    "Prayer Hats",
+                    "Dresses"
+                ]
+            },
+            "3": {
+                "sub-heading": "Bottoms",
+                "sub_categories": [
+                    "Leggings",
+                    "Skirts",
+                    "Shorts",
+                    "Jeans",
+                    "Pants & Capris"
+                ]
+            },
+            "4": {
+                "sub-heading": "Plus Size Clothes",
+                "sub_categories": [
+                    "Plus Size Dresses"
+                ]
+            },
+            "5": {
+                "sub-heading": "Weddings & Events",
+                "sub_categories": [
+                    "Wedding Dresses",
+                    "Prom Dresses",
+                    "Evening Dresses",
+                    "Africa Clothing",
+                    "Cosplay Costumes"
+                ]
+            },
+            "6": {
+                "sub-heading": "Women's Underwear",
+                "sub_categories": [
+                    "Pajama Sets",
+                    "Bras",
+                    "Panties",
+                    "Women's Socks",
+                    "Bra & Brief Sets",
+                    "Shapewear"
+                ]
+            },
+            "7": {
+                "sub-heading": "Accessories",
+                "sub_categories": [
+                    "Hair Accessories",
+                    "Sunglasses",
+                    "Blue Light Blocking Glasses",
+                    "Baseball Caps",
+                    "Bucket Hats",
+                    "Belts"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Men's Fashion",
+        "categories": {
+            "0": {
+                "sub-heading": "Hot Sale",
+                "sub_categories": [
+                    "Hoodies & Sweatshirts",
+                    "T-Shirts",
+                    "Shirts",
+                    "Casual Shorts",
+                    "Men's Sets",
+                    "Jackets"
+                ]
+            },
+            "1": {
+                "sub-heading": "Bottoms",
+                "sub_categories": [
+                    "Casual Pants",
+                    "Sweatpants",
+                    "Cargo Pants",
+                    "Jeans",
+                    "Harem Pants",
+                    "Shorts"
+                ]
+            },
+            "2": {
+                "sub-heading": "Outerwear & Jackets",
+                "sub_categories": [
+                    "Jackets",
+                    "Sweaters",
+                    "Casual Faux Leather",
+                    "Genuine Leather",
+                    "Parkas",
+                    "Down Jackets",
+                    "Suits & Blazer"
+                ]
+            },
+            "3": {
+                "sub-heading": "Underwear & Loungewear",
+                "sub_categories": [
+                    "Boxers",
+                    "Briefs",
+                    "Long Johns",
+                    "Men's Sleep & Lounge",
+                    "Pajama Sets"
+                ]
+            },
+            "4": {
+                "sub-heading": "Accessories",
+                "sub_categories": [
+                    "Scarves",
+                    "Skullies & Beanies",
+                    "Prescription Glasses",
+                    "Gloves & Mittens",
+                    "Belts",
+                    "Bomber Hats",
+                    "Fedoras",
+                    "Berets",
+                    "Baseball Caps"
+                ]
+            },
+            "5": {
+                "sub-heading": "Novelty & Special Use",
+                "sub_categories": [
+                    "Cosplay Costumes",
+                    "Stage & Dance Wear",
+                    "Exotic Apparel"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Phones & Telecommunications",
+        "categories": {
+            "0": {
+                "sub-heading": "Mobile Phones",
+                "sub_categories": [
+                    "Android Phones",
+                    "iPhones",
+                    "Feature Phones",
+                    "Refurbished Phones",
+                    "8GB RAM",
+                    "5G Phones"
+                ]
+            },
+            "1": {
+                "sub-heading": "Hot Brands",
+                "sub_categories": [
+                    "realme",
+                    "OnePlus",
+                    "HUAWEI",
+                    "infinix",
+                    "POCO",
+                    "UMIDIGI"
+                ]
+            },
+            "2": {
+                "sub-heading": "Mobile Phone Accessories",
+                "sub_categories": [
+                    "Cases & Covers",
+                    "Cables",
+                    "Chargers",
+                    "Power Bank",
+                    "Holders & Stands",
+                    "Screen Protectors"
+                ]
+            },
+            "3": {
+                "sub-heading": "Hot Cases & Covers",
+                "sub_categories": [
+                    "Cases For iPhone",
+                    "Cases For Samsung",
+                    "Cases For Huawei",
+                    "Cases For Xiaomi",
+                    "Cases For Meizu",
+                    "Cases For OPPO"
+                ]
+            },
+            "4": {
+                "sub-heading": "Featured Accessories",
+                "sub_categories": [
+                    "Wireless Chargers",
+                    "Car Chargers",
+                    "Lenses",
+                    "Adapters & Converters"
+                ]
+            },
+            "5": {
+                "sub-heading": "Mobile Phone Parts",
+                "sub_categories": [
+                    "Phone LCDs",
+                    "Phone Batteries",
+                    "Housings & Frames"
+                ]
+            },
+            "6": {
+                "sub-heading": "Communication Equipments",
+                "sub_categories": [
+                    "Walkie Talkie",
+                    "Fiber Optic Equipment",
+                    "Communications Antennas"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Computer",
+        "categories": {
+            "0": {
+                "sub-heading": "Components & Peripherals",
+                "sub_categories": [
+                    "CPUs",
+                    "Motherboards",
+                    "Graphics Cards",
+                    "Mice",
+                    "Keyboards"
+                ]
+            },
+            "1": {
+                "sub-heading": "Laptops",
+                "sub_categories": [
+                    "Gaming Laptops",
+                    "Ultraslim Laptops",
+                    "Tablets",
+                    "Laptop Accessories",
+                    "Tablet Accessories",
+                    "Laptop Bags & Cases"
+                ]
+            },
+            "2": {
+                "sub-heading": "Security & Protection",
+                "sub_categories": [
+                    "Surveillance Items",
+                    "Access Control Systems",
+                    "Smoke Detectors",
+                    "Safety Equipment",
+                    "Alarms & Sensors",
+                    "Door Intercom Systems"
+                ]
+            },
+            "3": {
+                "sub-heading": "Storage Devices",
+                "sub_categories": [
+                    "USB Flash Drives",
+                    "Memory Cards",
+                    "External Hard Drives",
+                    "HDD Box Enclosures",
+                    "SSDs"
+                ]
+            },
+            "4": {
+                "sub-heading": "Office Electronics",
+                "sub_categories": [
+                    "3D Printers",
+                    "3D Printer Parts & Accessories",
+                    "Printers",
+                    "Printer Parts",
+                    "Scanners",
+                    "Ink Cartridges",
+                    "3D Printing Materials"
+                ]
+            },
+            "5": {
+                "sub-heading": "Computer Networking",
+                "sub_categories": [
+                    "Wireless Routers",
+                    "Network Cards",
+                    "3G Modems",
+                    "Modem-Router Combos",
+                    "Networking Tools"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Consumer Electronics",
+        "categories": {
+            "0": {
+                "sub-heading": "Accessories & Parts",
+                "sub_categories": [
+                    "Cables & Adapters",
+                    "Electronic Cigarettes",
+                    "Batteries",
+                    "Chargers",
+                    "Home Electronic Accessories",
+                    "Bags & Cases"
+                ]
+            },
+            "1": {
+                "sub-heading": "Home Audio & Video",
+                "sub_categories": [
+                    "Televisions",
+                    "TV Receivers",
+                    "Projectors",
+                    "Audio Amplifier Boards",
+                    "TV Sticks"
+                ]
+            },
+            "2": {
+                "sub-heading": "Camera & Photo",
+                "sub_categories": [
+                    "Digital Cameras",
+                    "Camcorders",
+                    "Camera Drones",
+                    "Action Cameras",
+                    "Photo Studio Supplies",
+                    "Camera & Photo Accessories"
+                ]
+            },
+            "3": {
+                "sub-heading": "Portable Audio & Video",
+                "sub_categories": [
+                    "Earphones & Headphones",
+                    "Speakers",
+                    "MP3 Players",
+                    "Microphones",
+                    "VR/AR Devices"
+                ]
+            },
+            "4": {
+                "sub-heading": "Smart Electronics",
+                "sub_categories": [
+                    "Wearable Devices",
+                    "Smart Home Appliances",
+                    "Smart Wearable Accessories",
+                    "Smart Remote Controls",
+                    "Smart Watches",
+                    "Smart Wristbands"
+                ]
+            },
+            "5": {
+                "sub-heading": "Video Games",
+                "sub_categories": [
+                    "Game Consoles",
+                    "Handheld Game Players",
+                    "Game Controllers",
+                    "Chargers",
+                    "Steering Wheel"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Jewelry",
+        "categories": {
+            "0": {
+                "sub-heading": "Fine Jewelry",
+                "sub_categories": [
+                    "925 Silver Jewelry",
+                    "Diamond Jewelry",
+                    "Pearl Jewelry",
+                    "Gemstones",
+                    "K-Gold Jewelry",
+                    "Fine Earrings",
+                    "Fine Jewelry Sets",
+                    "Men's Fine Jewelry"
+                ]
+            },
+            "1": {
+                "sub-heading": "Wedding & Engagement",
+                "sub_categories": [
+                    "Bridal Jewelry Sets",
+                    "Engagement Rings",
+                    "Wedding Hair Jewelry"
+                ]
+            },
+            "2": {
+                "sub-heading": "Men's Watches",
+                "sub_categories": [
+                    "Mechanical Watches",
+                    "Quartz Watches",
+                    "Digital Watches",
+                    "Dual Display Watches",
+                    "Sports Watches"
+                ]
+            },
+            "3": {
+                "sub-heading": "Women's Watches",
+                "sub_categories": [
+                    "Women's Bracelet Watches",
+                    "Elegant Watches",
+                    "Romantic Watches",
+                    "Sports Watches",
+                    "Innovative Watches"
+                ]
+            },
+            "4": {
+                "sub-heading": "Fashion Jewelry",
+                "sub_categories": [
+                    "Necklaces & Pendants",
+                    "Trendy Rings",
+                    "Trendy Earrings",
+                    "Bracelets & Bangles",
+                    "Men's Cuff Links",
+                    "Fashion Jewelry Sets",
+                    "Charms",
+                    "Body Jewelry"
+                ]
+            },
+            "5": {
+                "sub-heading": "Beads & DIY Jewelry",
+                "sub_categories": [
+                    "Beads",
+                    "Jewelry Findings & Components",
+                    "Jewelry Packaging & Displays"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Home",
+        "categories": {
+            "0": {
+                "sub-heading": "Art",
+                "sub_categories": [
+                    "Fabric & Sewing Supplies",
+                    "Needle Arts & Craft",
+                    "Scrapbooking & Stamps",
+                    "5D DIY Diamond Painting"
+                ]
+            },
+            "1": {
+                "sub-heading": "Home Decor",
+                "sub_categories": [
+                    "Painting & Calligraphy",
+                    "Wall Stickers",
+                    "Figurines & Miniatures",
+                    "Wall Clocks"
+                ]
+            },
+            "2": {
+                "sub-heading": "Home Textiles",
+                "sub_categories": [
+                    "Cushions",
+                    "Curtains",
+                    "Bedding Sets",
+                    "Beach Towels"
+                ]
+            },
+            "3": {
+                "sub-heading": "Celebrations",
+                "sub_categories": [
+                    "Events & Parties",
+                    "Balloons",
+                    "Artificial & Dried Flowers",
+                    "Gift Bags & Boxes"
+                ]
+            },
+            "4": {
+                "sub-heading": "Home Storage",
+                "sub_categories": [
+                    "Storage Boxes & Bins",
+                    "Laundry Baskets",
+                    "Makeup Organizers"
+                ]
+            },
+            "5": {
+                "sub-heading": "Household Items",
+                "sub_categories": [
+                    "Umbrellas",
+                    "Bathroom Scales",
+                    "Sweepers & Mops",
+                    "Dust Covers"
+                ]
+            },
+            "6": {
+                "sub-heading": "Kitchen",
+                "sub_categories": [
+                    "Bakeware",
+                    "Drinkware",
+                    "Kitchen Tools & Gadgets",
+                    "Kitchen Knives & Accessories"
+                ]
+            },
+            "7": {
+                "sub-heading": "Garden & Pets",
+                "sub_categories": [
+                    "Cat Supplies",
+                    "Fish & Aquatic Pet Supplies",
+                    "Farm Animal Supplies",
+                    "Dog Toys"
+                ]
+            },
+            "8": {
+                "sub-heading": "Furniture",
+                "sub_categories": [
+                    "Home Furniture",
+                    "Office Furniture",
+                    "Outdoor Furniture",
+                    "Top Furniture Stores"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Bags",
+        "categories": {
+            "0": {
+                "sub-heading": "Women's Luggage & Bags",
+                "sub_categories": [
+                    "Stylish Backpacks",
+                    "Totes",
+                    "Shoulder Bags",
+                    "Wallets",
+                    "Evening Bags",
+                    "Clutches"
+                ]
+            },
+            "1": {
+                "sub-heading": "Women's Shoes",
+                "sub_categories": [
+                    "Women's Sandals",
+                    "Flats",
+                    "High Heels",
+                    "Vulcanized Sneakers",
+                    "House Slippers",
+                    "Boots"
+                ]
+            },
+            "2": {
+                "sub-heading": "Men's Luggage & Bags",
+                "sub_categories": [
+                    "Men's Backpacks",
+                    "Crossbody Bags",
+                    "Briefcases",
+                    "Luggage & Travel Bags",
+                    "Wallets"
+                ]
+            },
+            "3": {
+                "sub-heading": "Men's Shoes",
+                "sub_categories": [
+                    "Casual Shoes",
+                    "Vulcanized Sneakers",
+                    "Men's Sandals",
+                    "Loafers",
+                    "Flip Flops",
+                    "Boots"
+                ]
+            },
+            "4": {
+                "sub-heading": "Other Bags & Accessories",
+                "sub_categories": [
+                    "Kids & Baby Bags",
+                    "Cosmetic Bags & Cases",
+                    "Wallets & Card Holders",
+                    "Luggage Covers",
+                    "Passport Covers",
+                    "Bag Parts & Accessories"
+                ]
+            },
+            "5": {
+                "sub-heading": "Bestselling Shoes",
+                "sub_categories": [
+                    "Wedge Sandals",
+                    "Classic Heels",
+                    "Large-Sized Flats",
+                    "Indoor Slippers",
+                    "Trendy Sneakers",
+                    "Comfortable Sandals"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Toys",
+        "categories": {
+            "0": {
+                "sub-heading": "Hot Categories",
+                "sub_categories": [
+                    "Dresses",
+                    "Clothing Sets",
+                    "Family Matching Outfits",
+                    "Hoodies & Sweatshirts",
+                    "Sleepwear & Robes",
+                    "Children's Shoes",
+                    "Baby Strollers"
+                ]
+            },
+            "1": {
+                "sub-heading": "Baby(0-3years old)",
+                "sub_categories": [
+                    "Baby Rompers",
+                    "Baby Clothing Set",
+                    "Baby’s First Walkers",
+                    "Baby Accessories",
+                    null,
+                    "Feeding",
+                    "Bedding",
+                    "Baby Teething Items",
+                    "Baby & Toddler Toys"
+                ]
+            },
+            "2": {
+                "sub-heading": "For Girls",
+                "sub_categories": [
+                    "Dresses",
+                    null,
+                    "Tops & Tees",
+                    "Outerwear & Coats",
+                    "Sleepwear & Robes"
+                ]
+            },
+            "3": {
+                "sub-heading": "For Boys",
+                "sub_categories": [
+                    null,
+                    "T-Shirts",
+                    "Outerwear & Coats",
+                    "Jeans",
+                    "Hoodies & Sweatshirts"
+                ]
+            },
+            "4": {
+                "sub-heading": "Mother & Baby Items",
+                "sub_categories": [
+                    "Maternity Clothing",
+                    "Electric breast pumps",
+                    "Baby Souvenirs"
+                ]
+            },
+            "5": {
+                "sub-heading": "Remote Control",
+                "sub_categories": [
+                    "RC Helicopters",
+                    "RC Cars",
+                    "RC Quadcopter"
+                ]
+            },
+            "6": {
+                "sub-heading": "Building & Construction Toys",
+                "sub_categories": [
+                    "Blocks",
+                    "Model Building Toys"
+                ]
+            },
+            "7": {
+                "sub-heading": "Toys & Hobbies",
+                "sub_categories": [
+                    "Squeeze Toys",
+                    "Action & Toy Figures",
+                    "Dolls",
+                    "Stuffed & Plush Animals",
+                    "Diecasts & Toy Vehicles",
+                    "Game Collection Cards",
+                    "Stickers"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Outdoor Fun & Sports",
+        "categories": {
+            "0": {
+                "sub-heading": "Swimming",
+                "sub_categories": [
+                    "Swimming",
+                    "One-Piece Suits",
+                    "Two-Piece Suits",
+                    "Cover-Ups",
+                    "Men's Swimwear",
+                    "Children's Swimwear"
+                ]
+            },
+            "1": {
+                "sub-heading": "Cycling",
+                "sub_categories": [
+                    "Bicycles",
+                    "Bicycle Frames",
+                    "Bicycle Lights",
+                    "Bicycle Helmets",
+                    "Cycling Jerseys",
+                    "Cycling Eyewear"
+                ]
+            },
+            "2": {
+                "sub-heading": "Sneakers",
+                "sub_categories": [
+                    "Running Shoes",
+                    "Hiking Shoes",
+                    "Soccer Shoes",
+                    "Skateboarding Shoes",
+                    "Dance Shoes",
+                    "Basketball Shoes"
+                ]
+            },
+            "3": {
+                "sub-heading": "Fishing",
+                "sub_categories": [
+                    "Fishing Reels",
+                    "Fishing Lures",
+                    "Fishing Lines",
+                    "Fishing Rods",
+                    "Rod Combos",
+                    "Fishing Tackle Boxes"
+                ]
+            },
+            "4": {
+                "sub-heading": "Sportswear",
+                "sub_categories": [
+                    "Jerseys",
+                    "Hiking Jackets",
+                    "Pants",
+                    "Shorts",
+                    "Sports Bags",
+                    "Sports Accessories"
+                ]
+            },
+            "5": {
+                "sub-heading": "Other Sports Equipment",
+                "sub_categories": [
+                    "Camping & Hiking",
+                    "Hunting",
+                    "Golf",
+                    "Fitness & Bodybuilding",
+                    "Skiing & Snowboarding",
+                    "Musical Instruments"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Beauty, Health",
+        "categories": {
+            "0": {
+                "sub-heading": "Hair Weaves",
+                "sub_categories": [
+                    "Bundles With Closure",
+                    "3/4 Bundles",
+                    "Pre-Colored Weaves",
+                    "Closures"
+                ]
+            },
+            "1": {
+                "sub-heading": "Lace Wigs",
+                "sub_categories": [
+                    "Lace Front Wigs",
+                    "Full Lace Wigs",
+                    "360 Lace Wigs",
+                    "250% Density Lace Wigs"
+                ]
+            },
+            "2": {
+                "sub-heading": "Synthetic Hair",
+                "sub_categories": [
+                    "Synthetic Lace Wigs",
+                    "Synthetic Weaves",
+                    "Hair Braids",
+                    "Synthetic Extensions"
+                ]
+            },
+            "3": {
+                "sub-heading": "Makeup",
+                "sub_categories": [
+                    "Eyes",
+                    "Lips",
+                    "Face",
+                    "Makeup Tools"
+                ]
+            },
+            "4": {
+                "sub-heading": "Health Care",
+                "sub_categories": [
+                    "Massage & Relaxation",
+                    "Household Health Monitors",
+                    "Chinese Medicine",
+                    "Personal Health Care Items"
+                ]
+            },
+            "5": {
+                "sub-heading": "Skin Care",
+                "sub_categories": [
+                    "Face",
+                    "Eyes",
+                    "Body",
+                    "Skin Care Tools"
+                ]
+            },
+            "6": {
+                "sub-heading": "Nail Art & Tools",
+                "sub_categories": [
+                    "Gel Nail Polish",
+                    "Nail Drills",
+                    "Nail Dryers",
+                    "Nail Glitter"
+                ]
+            },
+            "7": {
+                "sub-heading": "Personal Care",
+                "sub_categories": [
+                    "Hair Care & Styling",
+                    "Shaving & Hair Removal",
+                    "Oral Hygiene"
+                ]
+            },
+            "8": {
+                "sub-heading": "Tattoos & Body Art",
+                "sub_categories": [
+                    "Tattoo Kits"
+                ]
+            },
+            "9": {
+                "sub-heading": "Adult Items",
+                "sub_categories": [
+                    "Condoms",
+                    "Lubricants",
+                    "Vibrators"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Automobiles & Motorcycles",
+        "categories": {
+            "0": {
+                "sub-heading": "Auto Replacement Parts",
+                "sub_categories": [
+                    "Car Lights",
+                    "Interior Parts",
+                    "Exterior Parts",
+                    "Spark Plugs & Ignition Systems",
+                    "Vehicle Sensors",
+                    "Brake Systems",
+                    "Windshield Wipers",
+                    "Other Replacement Parts"
+                ]
+            },
+            "1": {
+                "sub-heading": "Tools, Maintenance & Care",
+                "sub_categories": [
+                    "Code Readers & Scanning Tools",
+                    "Diagnostic Tools",
+                    "Car Washing Tools",
+                    "Paint Care & Polishes",
+                    "Other Maintenance Products"
+                ]
+            },
+            "2": {
+                "sub-heading": "Car Electronics",
+                "sub_categories": [
+                    "Car Multimedia Players",
+                    "DVR/Dash Cameras",
+                    "Alarm Systems & Security",
+                    "GPS Trackers",
+                    "Car Radios",
+                    "Car Monitors",
+                    "Car Fridges & Heaters",
+                    "Vehicle Cameras",
+                    "Vehicle GPS Systems",
+                    "Jump Starters"
+                ]
+            },
+            "3": {
+                "sub-heading": "Exterior Accessories",
+                "sub_categories": [
+                    "Car Stickers",
+                    "Car Covers",
+                    "Other Exterior Accessories"
+                ]
+            },
+            "4": {
+                "sub-heading": "Motorcycle Accessories & Parts",
+                "sub_categories": [
+                    "Body & Frame Parts",
+                    "Helmets & Protective Gear",
+                    "Lighting",
+                    "Braking Systems",
+                    "Exhaust Systems",
+                    "Helmets & Headsets",
+                    "Motorcycle Seat Covers",
+                    "Other Motorcycle Accessories"
+                ]
+            },
+            "5": {
+                "sub-heading": "Interior Accessories",
+                "sub_categories": [
+                    "Seat Covers",
+                    "Storage Solutions",
+                    "Car Key Cases",
+                    "Steering Wheel Covers",
+                    "Floor Mats"
+                ]
+            }
+        }
+    },
+    {
+        "main-category": "Home Improvement",
+        "categories": {
+            "0": {
+                "sub-heading": "Tools",
+                "sub_categories": [
+                    "Measurement & Analysis Tools",
+                    "Hand Tools",
+                    "Power Tools",
+                    "Garden Tools",
+                    "Tool Sets"
+                ]
+            },
+            "1": {
+                "sub-heading": "Indoor Lighting",
+                "sub_categories": [
+                    "Ceiling Lights",
+                    "Pendant Lights",
+                    "Downlights",
+                    "Chandeliers",
+                    "Wall Lamps",
+                    "Night Lights"
+                ]
+            },
+            "2": {
+                "sub-heading": "Tools",
+                "sub_categories": [
+                    "Welding Equipment",
+                    "Welding & Soldering Supplies",
+                    "Machine Tools & Accessories",
+                    "Woodworking Machinery",
+                    "Tool Storage Items"
+                ]
+            },
+            "3": {
+                "sub-heading": "LED Lighting",
+                "sub_categories": [
+                    "LED Strips",
+                    "LED Downlights",
+                    "LED Panel Lights",
+                    "LED Spotlights",
+                    "LED Bar Lights"
+                ]
+            },
+            "4": {
+                "sub-heading": "Home Improvement",
+                "sub_categories": [
+                    "Electrical Equipment & Supplies",
+                    "Wall Switches",
+                    "Hardware",
+                    "Kitchen Fixtures",
+                    "Paint Tools",
+                    "Pumps"
+                ]
+            },
+            "5": {
+                "sub-heading": "Outdoor Lighting",
+                "sub_categories": [
+                    "Flashlights",
+                    "Solar Lamps",
+                    "Floodlights",
+                    "String Lights",
+                    "Underwater Lights"
+                ]
+            }
+        }
+    }
+]
